@@ -25,9 +25,15 @@ class File:
 		elif self.filetype == [False, False, True]: self.path = File.PATH + 'data.json'							# larpix path
 		else: self.path = "No existing path found with these conditions!"
 
-	def open_file(self):
+	def __str__(self):
+		return "{}".format(self.path)
+
+	def __add__(self, ext):
+		return self.path + ext
+
+	def open_file(self, file_ext = ''):
 		try:
-			with open(self.path, 'r') as file:
+			with open(self.path + file_ext, 'r') as file:
 				data = json.load(file)
 			file.close()
 		except: data = "No data found!"
