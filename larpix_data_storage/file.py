@@ -14,7 +14,7 @@ class File:
 		- filetype conditional list to keep track of the path used 
 			- <[uart_file, config_file, larpix_file]>
 	'''
-	PATH = '/Users/jamesdeleon/Documents/larpix/larpix_data_storage/test_data/'
+	PATH = '/Users/jamesdeleon/Documents/larpix/larpix_v3_4_0/UTA_plotting_scripts/larpix_data_storage/test_data/'
 
 	def __init__(self, serial_num, filetype = [False, False, False]):
 		self.serial_num = str(serial_num)
