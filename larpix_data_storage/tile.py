@@ -54,6 +54,9 @@ if __name__ == "__main__":
 				chip_input = str(input("Enter a chip id to see config information (1-1-11), or quit (q): ")).lower()
 				if chip_input == 'q': break
 				else:
+					io_group = chip_input.split('-')[0]
+					io_channel = chip_input.split('-')[1]
+					chip_id = chip_input.split('-')[2]
 					for chip in tile_test.chips:
-						if chip.io_group == chip_input.split('-')[0] and chip.io_channel == chip_input.split('-')[1] and chip.chip_id == chip_input.split('-')[2]:
+						if chip.io_group == io_group and chip.io_channel == io_channel and chip.chip_id == chip_id:
 							print("{}\n".format(chip.config_data))
