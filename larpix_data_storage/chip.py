@@ -2,6 +2,7 @@
 
 import json
 import glob
+from file import File
 
 class Chip:
 	'''
@@ -18,9 +19,9 @@ class Chip:
 		self.io_channel = str(io_channel)
 		self.chip_id = str(chip_id)
 
-		self.config_path = "test_data/" + self.serial_num + "/configs_dir/"
+		self.config_dir = File(self.serial_num, [False, True, False])
 		self.config_file = self.find_config_file()
-		self.config_data = self.parse_config_file(self.config_file)
+		self.config_data = self.config_dir.open_file(self.config_file)
 
 
 	def __str__(self):
@@ -32,23 +33,16 @@ class Chip:
 
 
 	def find_config_file(self):
-		config_files = glob.glob(self.config_path + "*.json")
+		config_files = glob.glob(self.config_dir + "*.json")
 		for file in config_files:
 			io_group = file.split('-')[1]
 			io_channel = file.split('-')[2]
 			chip_id = file.split('-')[3]
 
-			if (io_group == self.io_group) and (io_channel == self.io_channel) and (chip_id == self.chip_id): return file
+			if (io_group == self.io_group) and (io_channel == self.io_channel) and (chip_id == self.chip_id):
+				file_ext = file.split('/')[-1]
+				return file_ext
 		return "No config file found for this chip!"
-
-
-	def parse_config_file(self, config_file):
-		try:
-			with open(config_file, 'r') as file:
-				data = json.load(file)
-			file.close()
-		except: data = "No config data available!"
-		finally: return data
 
 
 if __name__ == "__main__":
