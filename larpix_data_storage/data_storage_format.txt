@@ -1,0 +1,54 @@
+This file will describe the general format for storing larpix data.
+
+- <serial number (and date tested?)>
+	| - <warm calibration tests>
+		
+		| - <configs dir>
+			| - <chip config file>
+			| - ...
+		
+		| - <ped dir>
+			| - <raw ped file>
+			| - <refined ped file>
+		
+		| - <leakage dir>
+			| - <leakage file>
+		
+		| - <phys run dir>
+			| - <phys run files>
+			| - ...
+		
+		| - <viz dir>
+			| - <ped viz files>
+			| - <phys run viz files>
+			| - <leakage viz files>
+
+		| - <bad channels list file>
+		| - <bad channels default list>
+		| - <uart path file>
+
+	| - <cold calibration tests>
+		
+		| - <configs dir>
+			| - <chip config file>
+			| - ...
+		
+		| - <ped dir>
+			| - <raw ped file>
+			| - <refined ped file>
+		
+		| - <leakage dir>
+			| - <leakage file>
+		
+		| - <phys run dir>
+			| - <phys run files>
+			| - ...
+		
+		| - <viz dir>
+			| - <ped viz files>
+			| - <phys run viz files>
+			| - <leakage viz files>
+
+		| - <bad channels list file>
+		| - <bad channels default list>
+		| - <uart path file>

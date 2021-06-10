@@ -1,0 +1,10 @@
+To start off, the tile will parse through each uart.json file in each tile directory indexed as their respective serial number.
+
+The uart path will be loaded as an attribute of the tile.
+
+A method will also initialize 100 Chip objects based on the uart path's description of 
+how the chip-id's and io-channels are formatted for that tile.
+
+As this portion of the tile object becomes more advanced,
+allow for a default uart path to be loaded unless specifically stated otherwise,
+then load the modified uart path.
