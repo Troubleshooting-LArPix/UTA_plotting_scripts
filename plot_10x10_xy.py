@@ -16,9 +16,7 @@ geometrypath='/home/herogers/SingleCube/larpix-geometry/larpixgeometry/layouts/c
 datapath='/home/herogers/SingleCube/data/test'
 '''
 geometrypath = '/Users/jamesdeleon/Documents/larpix/larpix_v3_4_0/layout-2.4.0.yaml'
-#datapath = '/Users/jamesdeleon/Documents/larpix/larpix_v3_4_0/UTA_plotting_scripts/data_files/'#datalog_2021_01_28_19_19_41_CST_.h5'
-#datapath = '/Volumes/deleon_py/larpix_test_files/pedestal_data/'
-datapath = '/Volumes/deleon_py/larpix_test_files/leakage_current_data/'
+datapath = '/Volumes/deleon_py/larpix_test_files/flange_test_package2/phys_runs/ten_min/'
 
 files = sorted([os.path.basename(path) for path in glob.glob(datapath+'/*.h5')])
 data_cache = dict()
@@ -99,7 +97,7 @@ def main(filenames=files):
             print('loading',filename,'from cache')
             d = data_cache[filename]
 
-        fig, axes = plt.subplots(3,1,sharex='col',sharey='col',num='summary 2 {}'.format(filename),figsize=(5,10))
+        fig, axes = plt.subplots(3,1,sharex='col',sharey='col',num='summary_{}'.format(filename),figsize=(4,8))
         x = np.array([d[key]['x'] for key in d if 'x' in d[key]])
         y = np.array([d[key]['y'] for key in d if 'y' in d[key]])
         c0 = fig.colorbar(axes[0].scatter(x,y,c=[d[key]['mean'] for key in d if 'mean' in d[key]], 
@@ -119,7 +117,7 @@ def main(filenames=files):
 
         ax2.set(xlabel='x [mm]')
         plt.tight_layout()
-        plt.savefig(datapath + "summary_" + filename + ".png")
+        #plt.savefig(datapath + "summary_" + filename + ".png")
         plt.show()
 
 if __name__ == '__main__':
