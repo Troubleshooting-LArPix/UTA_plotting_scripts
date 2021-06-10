@@ -17,7 +17,7 @@ class Tile:
 
 	ATTRIBUTES:
 		- serial number
-		- uart path
+		- file object for the uart file path/data
 		- cryo or non-cryo state
 		- a list of 100 Chip objects
 	'''
@@ -55,4 +55,5 @@ if __name__ == "__main__":
 				if chip_input == 'q': break
 				else:
 					for chip in tile_test.chips:
-						if chip == chip_input: print("{}\n".format(chip.config_data))
+						if chip.io_group == chip_input.split('-')[0] and chip.io_channel == chip_input.split('-')[1] and chip.chip_id == chip_input.split('-')[2]:
+							print("{}\n".format(chip.config_data))
