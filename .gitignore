@@ -80,6 +80,9 @@ target/
 # Global Mac Extension
 **/.DS_Store
 
+# .icloud
+*.icloud
+
 # IPython
 profile_default/
 ipython_config.py
