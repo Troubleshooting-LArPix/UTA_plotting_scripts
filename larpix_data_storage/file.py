@@ -43,10 +43,6 @@ class File:
 		return "{}".format(self.path)
 
 
-	def __add__(self, ext):
-		return self.path + ext
-
-
 	def open_file(self, file_ext = ''):
 		try:
 			with open(self.path + file_ext, 'r') as file:

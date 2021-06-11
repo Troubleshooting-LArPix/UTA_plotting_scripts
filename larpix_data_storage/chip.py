@@ -26,10 +26,6 @@ class Chip:
 		return "Chip: {0}-{1}-{2}".format(self.io_group, self.io_channel, self.chip_id)
 
 
-	def __eq__(self, chip):
-		return (chip.io_group == self.io_group) and (chip.io_channel == self.io_channel) and (chip.chip_id == self.chip_id) 
-
-
 	def find_config_file(self):
 		for file in self.config_dir.config_files:
 			io_group = file.split('-')[1]
