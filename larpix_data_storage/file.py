@@ -48,8 +48,11 @@ class File:
 			with open(self.path + file_ext, 'r') as file:
 				data = json.load(file)
 			file.close()
-		except: data = "No data found!"
-		finally: return data
+		except:
+			data = None
+			print("No data found!")
+		finally:
+			return data
 
 
 	def save_file(self):
