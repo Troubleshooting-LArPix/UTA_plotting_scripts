@@ -5,6 +5,7 @@
 # within respective classes
 
 import json
+import glob
 
 class File:
 	'''
@@ -20,16 +21,31 @@ class File:
 		self.serial_num = str(serial_num)
 		self.filetype = filetype
 
-		if self.filetype == [True, False, False]: self.path = File.PATH + self.serial_num + '/uart.json'		# uart path
-		elif self.filetype == [False, True, False]: self.path = File.PATH + self.serial_num + '/configs_dir/'	# config path
-		elif self.filetype == [False, False, True]: self.path = File.PATH + 'data.json'							# larpix path
-		else: self.path = "No existing path found with these conditions!"
+		# UART PATH
+		if self.filetype == [True, False, False]:
+			self.path = File.PATH + self.serial_num + '/uart.json'
+
+		# CONFIG PATH
+		elif self.filetype == [False, True, False]:
+			self.path = File.PATH + self.serial_num + '/configs_dir/'
+			self.config_files = glob.glob(self.path + '*.json')
+
+		# LARPIX PATH
+		elif self.filetype == [False, False, True]:
+			self.path = File.PATH + 'data.json'
+
+		# UNKNOWN PATH
+		else: 
+			self.path = "No existing path found with these conditions!"
+
 
 	def __str__(self):
 		return "{}".format(self.path)
 
+
 	def __add__(self, ext):
 		return self.path + ext
+
 
 	def open_file(self, file_ext = ''):
 		try:
@@ -39,12 +55,23 @@ class File:
 		except: data = "No data found!"
 		finally: return data
 
+
 	def save_file(self):
 		pass
+
 
 	def copy_file(self):
 		pass
 
 
 if __name__ == "__main__":
-	pass
+	test_uart_file = File("000", [True, False, False])
+	test_config_dir = File("000", [False, True, False])
+
+	print("Uart File: {}".format(test_uart_file))
+	print("Data:\n{}".format(test_uart_file.open_file()))
+
+	print('\n')
+
+	print("Config Directory: {}".format(test_config_dir))
+	print("Data:\n{}".format(test_config_dir.open_file("config-1-1-11-2021_04_28_14_35_CDT.json")))
