@@ -1,5 +1,9 @@
 # COMMAND LINE INTERFACE CLASS
 
+import json
+import glob
+from file import File
+from chip import Chip
 from tile import Tile
 
 class CLI:
