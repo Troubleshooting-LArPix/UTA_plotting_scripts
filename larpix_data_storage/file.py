@@ -36,7 +36,7 @@ class File:
 
 		# UNKNOWN PATH
 		else: 
-			self.path = "No existing path found with these conditions!"
+			self.path = None
 
 
 	def __str__(self):
