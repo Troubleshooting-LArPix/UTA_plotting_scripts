@@ -67,4 +67,3 @@ class CLI:
 if __name__ == "__main__":
 	interface = CLI()
 	interface.run()
-
