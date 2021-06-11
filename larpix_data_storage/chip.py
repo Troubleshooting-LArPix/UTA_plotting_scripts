@@ -1,7 +1,5 @@
 # CHIP CLASS
 
-import json
-import glob
 from file import File
 
 class Chip:
@@ -10,7 +8,7 @@ class Chip:
 		- ability to parse a config file
 
 	ATTRIBUTES:
-		- config json file
+		- config file
 		- chip ID (io group, io channel, chip id)
 	'''
 	def __init__(self, serial_num, io_group, io_channel, chip_id):
@@ -33,8 +31,7 @@ class Chip:
 
 
 	def find_config_file(self):
-		config_files = glob.glob(self.config_dir + "*.json")
-		for file in config_files:
+		for file in self.config_dir.config_files:
 			io_group = file.split('-')[1]
 			io_channel = file.split('-')[2]
 			chip_id = file.split('-')[3]
