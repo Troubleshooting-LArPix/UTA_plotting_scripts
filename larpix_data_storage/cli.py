@@ -32,16 +32,33 @@ class CLI:
 		self.init_data = self.init_file.open_file()
 		print("Interface initialized!")
 
+		self.tile_arr = []
+
 
 	def display_menu(self):
-		print("Welcome to the LArPix Database, choose an option...")
-		print("(1) Add a new tile to the database") # input serial number, initialize chips, uarts, and configs
+		print('\n')
+		print("Welcome to the UTA LArPix QC Testing Database, choose an option...")
+		print("(1) Add a new tile to the database") # input serial number -> initialize chips, uarts, and configs
+		print("(2) Display all tiles saved to the database")
 		print("(q) Save and exit program")
 		print('\n')
 
 
 	def add_tile(self):
-		pass
+		tile_input = str(input("Enter a tile serial number (000, 001, 002, etc...) or quit (q): ")).lower()
+		if tile_input == 'q': pass
+		else:
+			try:
+				tile = Tile(tile_input)
+				print("Data found for: {}".format(tile))
+				print("Adding tile to database...")
+				self.tile_arr.append(tile)
+			except:
+				pass
+
+
+	def display_all_tiles(self):
+		for tile in self.tile_arr: print("{}".format(tile))
 
 
 	def save(self):
@@ -58,6 +75,9 @@ class CLI:
 				break
 			elif menu_input == '1':
 				self.add_tile()
+				continue
+			elif menu_input == '2':
+				self.display_all_tiles()
 				continue
 			else:
 				print("Not an acceptable input! Try again!")
