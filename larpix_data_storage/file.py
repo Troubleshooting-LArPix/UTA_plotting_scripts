@@ -54,8 +54,10 @@ class File:
 			return data
 
 
-	def save_file(self):
-		pass
+	def save_file(self, ext_data):
+		with open(self.path, 'w') as file:
+			file.write(ext_data)
+		file.close()
 
 
 	def copy_file(self):

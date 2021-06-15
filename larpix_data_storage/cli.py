@@ -77,9 +77,7 @@ class CLI:
 				]
 			}
 		json_object = json.dumps(data, indent = 4)
-		with open('data.json', 'w') as file:
-			file.write(json_object)
-		file.close()
+		self.init_file.save_file(json_object)
 
 
 	def run(self):
