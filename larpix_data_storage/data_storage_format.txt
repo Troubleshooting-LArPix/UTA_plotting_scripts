@@ -1,5 +1,7 @@
 This file will describe the general format for storing larpix data.
 
+### Directory format for storing data:
+
 - <serial number (and date tested?)>
 	| - <warm calibration tests>
 		
@@ -52,3 +54,15 @@ This file will describe the general format for storing larpix data.
 		| - <bad channels list file>
 		| - <bad channels default list>
 		| - <uart path file>
+
+
+### json format for storing data
+
+{"Data": [tile1, tile2, tile3, etc...]}
+
+tile1:
+	{"Serial_Number": <serial_num>, "uart": <uart_data>, "chips": [chip1, chip2, chip3, etc...]}
+
+chip1:
+	{"Chip_ID": <chip_id>, "chip_config": <chip_config>}
+
