@@ -1,8 +1,8 @@
 {
-    "Data": [
+    "data": [
         {
-            "Serial_Number": "000",
-            "UART_Path": {
+            "serial_number": "000",
+            "uart_path": {
                 "_config_type": "controller",
                 "name": "network-10x10-tile-singlecube",
                 "asic_version": 2,
@@ -986,10 +986,10 @@
                     ]
                 }
             },
-            "Chips": [
+            "chips": [
                 {
-                    "Chip_ID": "11",
-                    "Chip_Config": {
+                    "chip_id": "11",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -1785,8 +1785,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "12",
-                    "Chip_Config": {
+                    "chip_id": "12",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -2582,8 +2582,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "13",
-                    "Chip_Config": {
+                    "chip_id": "13",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -3379,8 +3379,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "14",
-                    "Chip_Config": {
+                    "chip_id": "14",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -4176,8 +4176,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "15",
-                    "Chip_Config": {
+                    "chip_id": "15",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -4973,8 +4973,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "16",
-                    "Chip_Config": {
+                    "chip_id": "16",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -5770,8 +5770,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "17",
-                    "Chip_Config": {
+                    "chip_id": "17",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -6567,8 +6567,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "18",
-                    "Chip_Config": {
+                    "chip_id": "18",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -7364,8 +7364,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "19",
-                    "Chip_Config": {
+                    "chip_id": "19",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -8161,8 +8161,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "20",
-                    "Chip_Config": {
+                    "chip_id": "20",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -8958,8 +8958,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "30",
-                    "Chip_Config": {
+                    "chip_id": "30",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -9755,8 +9755,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "29",
-                    "Chip_Config": {
+                    "chip_id": "29",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -10552,8 +10552,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "28",
-                    "Chip_Config": {
+                    "chip_id": "28",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -11349,8 +11349,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "27",
-                    "Chip_Config": {
+                    "chip_id": "27",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -12146,8 +12146,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "26",
-                    "Chip_Config": {
+                    "chip_id": "26",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -12943,8 +12943,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "25",
-                    "Chip_Config": {
+                    "chip_id": "25",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -13740,8 +13740,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "24",
-                    "Chip_Config": {
+                    "chip_id": "24",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -14537,8 +14537,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "23",
-                    "Chip_Config": {
+                    "chip_id": "23",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -15334,8 +15334,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "22",
-                    "Chip_Config": {
+                    "chip_id": "22",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -16131,8 +16131,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "21",
-                    "Chip_Config": {
+                    "chip_id": "21",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -16928,8 +16928,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "31",
-                    "Chip_Config": {
+                    "chip_id": "31",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -17725,8 +17725,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "32",
-                    "Chip_Config": {
+                    "chip_id": "32",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -18522,8 +18522,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "33",
-                    "Chip_Config": {
+                    "chip_id": "33",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -19319,8 +19319,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "34",
-                    "Chip_Config": {
+                    "chip_id": "34",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -20116,8 +20116,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "41",
-                    "Chip_Config": {
+                    "chip_id": "41",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -20913,8 +20913,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "51",
-                    "Chip_Config": {
+                    "chip_id": "51",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -21710,8 +21710,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "52",
-                    "Chip_Config": {
+                    "chip_id": "52",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -22507,8 +22507,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "53",
-                    "Chip_Config": {
+                    "chip_id": "53",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -23304,8 +23304,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "54",
-                    "Chip_Config": {
+                    "chip_id": "54",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -24101,8 +24101,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "55",
-                    "Chip_Config": {
+                    "chip_id": "55",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -24898,8 +24898,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "56",
-                    "Chip_Config": {
+                    "chip_id": "56",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -25695,8 +25695,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "57",
-                    "Chip_Config": {
+                    "chip_id": "57",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -26492,8 +26492,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "58",
-                    "Chip_Config": {
+                    "chip_id": "58",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -27289,8 +27289,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "59",
-                    "Chip_Config": {
+                    "chip_id": "59",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -28086,8 +28086,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "60",
-                    "Chip_Config": {
+                    "chip_id": "60",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -28883,8 +28883,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "50",
-                    "Chip_Config": {
+                    "chip_id": "50",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -29680,8 +29680,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "40",
-                    "Chip_Config": {
+                    "chip_id": "40",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -30477,8 +30477,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "39",
-                    "Chip_Config": {
+                    "chip_id": "39",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -31274,8 +31274,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "49",
-                    "Chip_Config": {
+                    "chip_id": "49",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -32071,8 +32071,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "48",
-                    "Chip_Config": {
+                    "chip_id": "48",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -32868,8 +32868,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "38",
-                    "Chip_Config": {
+                    "chip_id": "38",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -33665,8 +33665,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "37",
-                    "Chip_Config": {
+                    "chip_id": "37",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -34462,8 +34462,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "47",
-                    "Chip_Config": {
+                    "chip_id": "47",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -35259,8 +35259,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "46",
-                    "Chip_Config": {
+                    "chip_id": "46",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -36056,8 +36056,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "36",
-                    "Chip_Config": {
+                    "chip_id": "36",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -36853,8 +36853,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "35",
-                    "Chip_Config": {
+                    "chip_id": "35",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -37650,8 +37650,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "45",
-                    "Chip_Config": {
+                    "chip_id": "45",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -38447,8 +38447,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "44",
-                    "Chip_Config": {
+                    "chip_id": "44",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -39244,8 +39244,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "43",
-                    "Chip_Config": {
+                    "chip_id": "43",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -40041,8 +40041,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "42",
-                    "Chip_Config": {
+                    "chip_id": "42",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -40838,8 +40838,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "71",
-                    "Chip_Config": {
+                    "chip_id": "71",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -41635,8 +41635,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "61",
-                    "Chip_Config": {
+                    "chip_id": "61",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -42432,8 +42432,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "62",
-                    "Chip_Config": {
+                    "chip_id": "62",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -43229,8 +43229,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "63",
-                    "Chip_Config": {
+                    "chip_id": "63",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -44026,8 +44026,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "64",
-                    "Chip_Config": {
+                    "chip_id": "64",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -44823,8 +44823,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "65",
-                    "Chip_Config": {
+                    "chip_id": "65",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -45620,8 +45620,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "66",
-                    "Chip_Config": {
+                    "chip_id": "66",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -46417,8 +46417,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "67",
-                    "Chip_Config": {
+                    "chip_id": "67",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -47214,8 +47214,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "68",
-                    "Chip_Config": {
+                    "chip_id": "68",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -48011,8 +48011,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "69",
-                    "Chip_Config": {
+                    "chip_id": "69",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -48808,8 +48808,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "70",
-                    "Chip_Config": {
+                    "chip_id": "70",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -49605,8 +49605,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "80",
-                    "Chip_Config": {
+                    "chip_id": "80",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -50402,8 +50402,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "90",
-                    "Chip_Config": {
+                    "chip_id": "90",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -51199,8 +51199,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "89",
-                    "Chip_Config": {
+                    "chip_id": "89",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -51996,8 +51996,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "79",
-                    "Chip_Config": {
+                    "chip_id": "79",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -52793,8 +52793,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "78",
-                    "Chip_Config": {
+                    "chip_id": "78",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -53590,8 +53590,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "88",
-                    "Chip_Config": {
+                    "chip_id": "88",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -54387,8 +54387,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "87",
-                    "Chip_Config": {
+                    "chip_id": "87",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -55184,8 +55184,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "77",
-                    "Chip_Config": {
+                    "chip_id": "77",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -55981,8 +55981,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "76",
-                    "Chip_Config": {
+                    "chip_id": "76",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -56778,8 +56778,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "86",
-                    "Chip_Config": {
+                    "chip_id": "86",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -57575,8 +57575,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "85",
-                    "Chip_Config": {
+                    "chip_id": "85",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -58372,8 +58372,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "75",
-                    "Chip_Config": {
+                    "chip_id": "75",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -59169,8 +59169,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "74",
-                    "Chip_Config": {
+                    "chip_id": "74",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -59966,8 +59966,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "73",
-                    "Chip_Config": {
+                    "chip_id": "73",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -60763,8 +60763,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "72",
-                    "Chip_Config": {
+                    "chip_id": "72",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -61560,8 +61560,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "101",
-                    "Chip_Config": {
+                    "chip_id": "101",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -62357,8 +62357,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "102",
-                    "Chip_Config": {
+                    "chip_id": "102",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -63154,8 +63154,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "103",
-                    "Chip_Config": {
+                    "chip_id": "103",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -63951,8 +63951,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "104",
-                    "Chip_Config": {
+                    "chip_id": "104",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -64748,8 +64748,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "105",
-                    "Chip_Config": {
+                    "chip_id": "105",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -65545,8 +65545,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "106",
-                    "Chip_Config": {
+                    "chip_id": "106",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -66342,8 +66342,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "107",
-                    "Chip_Config": {
+                    "chip_id": "107",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -67139,8 +67139,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "108",
-                    "Chip_Config": {
+                    "chip_id": "108",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -67936,8 +67936,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "109",
-                    "Chip_Config": {
+                    "chip_id": "109",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -68733,8 +68733,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "110",
-                    "Chip_Config": {
+                    "chip_id": "110",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -69530,8 +69530,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "100",
-                    "Chip_Config": {
+                    "chip_id": "100",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -70327,8 +70327,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "99",
-                    "Chip_Config": {
+                    "chip_id": "99",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -71124,8 +71124,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "98",
-                    "Chip_Config": {
+                    "chip_id": "98",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -71921,8 +71921,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "97",
-                    "Chip_Config": {
+                    "chip_id": "97",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -72718,8 +72718,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "96",
-                    "Chip_Config": {
+                    "chip_id": "96",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -73515,8 +73515,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "95",
-                    "Chip_Config": {
+                    "chip_id": "95",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -74312,8 +74312,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "94",
-                    "Chip_Config": {
+                    "chip_id": "94",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -75109,8 +75109,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "93",
-                    "Chip_Config": {
+                    "chip_id": "93",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -75906,8 +75906,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "92",
-                    "Chip_Config": {
+                    "chip_id": "92",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -76703,8 +76703,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "91",
-                    "Chip_Config": {
+                    "chip_id": "91",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -77500,8 +77500,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "81",
-                    "Chip_Config": {
+                    "chip_id": "81",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -78297,8 +78297,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "82",
-                    "Chip_Config": {
+                    "chip_id": "82",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -79094,8 +79094,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "83",
-                    "Chip_Config": {
+                    "chip_id": "83",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -79891,8 +79891,8 @@
                     }
                 },
                 {
-                    "Chip_ID": "84",
-                    "Chip_Config": {
+                    "chip_id": "84",
+                    "chip_config": {
                         "_config_type": "chip",
                         "class": "Configuration_v2",
                         "register_values": {
@@ -80690,8 +80690,8 @@
             ]
         },
         {
-            "Serial_Number": "001",
-            "UART_Path": {
+            "serial_number": "001",
+            "uart_path": {
                 "_config_type": "controller",
                 "name": "csu_network-10x10-tile-singlecube",
                 "asic_version": 2,
@@ -81653,1762 +81653,406 @@
                     ]
                 }
             },
-            "Chips": [
+            "chips": [
                 {
-                    "Chip_ID": "11",
-                    "Chip_Config": null
+                    "chip_id": "11",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "12",
-                    "Chip_Config": null
+                    "chip_id": "12",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "13",
-                    "Chip_Config": null
+                    "chip_id": "13",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "14",
-                    "Chip_Config": null
+                    "chip_id": "14",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "15",
-                    "Chip_Config": null
+                    "chip_id": "15",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "16",
-                    "Chip_Config": null
+                    "chip_id": "16",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "17",
-                    "Chip_Config": null
+                    "chip_id": "17",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "18",
-                    "Chip_Config": null
+                    "chip_id": "18",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "19",
-                    "Chip_Config": null
+                    "chip_id": "19",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "20",
-                    "Chip_Config": null
+                    "chip_id": "20",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "30",
-                    "Chip_Config": null
+                    "chip_id": "30",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "29",
-                    "Chip_Config": null
+                    "chip_id": "29",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "28",
-                    "Chip_Config": null
+                    "chip_id": "28",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "27",
-                    "Chip_Config": null
+                    "chip_id": "27",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "26",
-                    "Chip_Config": null
+                    "chip_id": "26",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "25",
-                    "Chip_Config": null
+                    "chip_id": "25",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "24",
-                    "Chip_Config": null
+                    "chip_id": "24",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "23",
-                    "Chip_Config": null
+                    "chip_id": "23",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "22",
-                    "Chip_Config": null
+                    "chip_id": "22",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "21",
-                    "Chip_Config": null
+                    "chip_id": "21",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "31",
-                    "Chip_Config": null
+                    "chip_id": "31",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "32",
-                    "Chip_Config": null
+                    "chip_id": "32",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "33",
-                    "Chip_Config": null
+                    "chip_id": "33",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "34",
-                    "Chip_Config": null
+                    "chip_id": "34",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "35",
-                    "Chip_Config": null
+                    "chip_id": "35",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "36",
-                    "Chip_Config": null
+                    "chip_id": "36",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "37",
-                    "Chip_Config": null
+                    "chip_id": "37",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "38",
-                    "Chip_Config": null
+                    "chip_id": "38",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "39",
-                    "Chip_Config": null
+                    "chip_id": "39",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "40",
-                    "Chip_Config": null
+                    "chip_id": "40",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "50",
-                    "Chip_Config": null
+                    "chip_id": "50",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "49",
-                    "Chip_Config": null
+                    "chip_id": "49",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "48",
-                    "Chip_Config": null
+                    "chip_id": "48",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "47",
-                    "Chip_Config": null
+                    "chip_id": "47",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "46",
-                    "Chip_Config": null
+                    "chip_id": "46",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "45",
-                    "Chip_Config": null
+                    "chip_id": "45",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "44",
-                    "Chip_Config": null
+                    "chip_id": "44",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "43",
-                    "Chip_Config": null
+                    "chip_id": "43",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "42",
-                    "Chip_Config": null
+                    "chip_id": "42",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "41",
-                    "Chip_Config": null
+                    "chip_id": "41",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "51",
-                    "Chip_Config": null
+                    "chip_id": "51",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "52",
-                    "Chip_Config": null
+                    "chip_id": "52",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "53",
-                    "Chip_Config": null
+                    "chip_id": "53",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "54",
-                    "Chip_Config": null
+                    "chip_id": "54",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "55",
-                    "Chip_Config": null
+                    "chip_id": "55",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "56",
-                    "Chip_Config": null
+                    "chip_id": "56",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "57",
-                    "Chip_Config": null
+                    "chip_id": "57",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "58",
-                    "Chip_Config": null
+                    "chip_id": "58",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "59",
-                    "Chip_Config": null
+                    "chip_id": "59",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "60",
-                    "Chip_Config": null
+                    "chip_id": "60",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "101",
-                    "Chip_Config": null
+                    "chip_id": "101",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "102",
-                    "Chip_Config": null
+                    "chip_id": "102",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "103",
-                    "Chip_Config": null
+                    "chip_id": "103",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "104",
-                    "Chip_Config": null
+                    "chip_id": "104",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "105",
-                    "Chip_Config": null
+                    "chip_id": "105",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "106",
-                    "Chip_Config": null
+                    "chip_id": "106",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "107",
-                    "Chip_Config": null
+                    "chip_id": "107",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "108",
-                    "Chip_Config": null
+                    "chip_id": "108",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "109",
-                    "Chip_Config": null
+                    "chip_id": "109",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "110",
-                    "Chip_Config": null
+                    "chip_id": "110",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "100",
-                    "Chip_Config": null
+                    "chip_id": "100",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "99",
-                    "Chip_Config": null
+                    "chip_id": "99",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "98",
-                    "Chip_Config": null
+                    "chip_id": "98",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "97",
-                    "Chip_Config": null
+                    "chip_id": "97",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "96",
-                    "Chip_Config": null
+                    "chip_id": "96",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "95",
-                    "Chip_Config": null
+                    "chip_id": "95",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "94",
-                    "Chip_Config": null
+                    "chip_id": "94",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "93",
-                    "Chip_Config": null
+                    "chip_id": "93",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "92",
-                    "Chip_Config": null
+                    "chip_id": "92",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "91",
-                    "Chip_Config": null
+                    "chip_id": "91",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "81",
-                    "Chip_Config": null
+                    "chip_id": "81",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "82",
-                    "Chip_Config": null
+                    "chip_id": "82",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "83",
-                    "Chip_Config": null
+                    "chip_id": "83",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "84",
-                    "Chip_Config": null
+                    "chip_id": "84",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "85",
-                    "Chip_Config": null
+                    "chip_id": "85",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "86",
-                    "Chip_Config": null
+                    "chip_id": "86",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "87",
-                    "Chip_Config": null
+                    "chip_id": "87",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "88",
-                    "Chip_Config": null
+                    "chip_id": "88",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "89",
-                    "Chip_Config": null
+                    "chip_id": "89",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "90",
-                    "Chip_Config": null
+                    "chip_id": "90",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "80",
-                    "Chip_Config": null
+                    "chip_id": "80",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "79",
-                    "Chip_Config": null
+                    "chip_id": "79",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "78",
-                    "Chip_Config": null
+                    "chip_id": "78",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "77",
-                    "Chip_Config": null
+                    "chip_id": "77",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "76",
-                    "Chip_Config": null
+                    "chip_id": "76",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "75",
-                    "Chip_Config": null
+                    "chip_id": "75",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "74",
-                    "Chip_Config": null
+                    "chip_id": "74",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "73",
-                    "Chip_Config": null
+                    "chip_id": "73",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "72",
-                    "Chip_Config": null
+                    "chip_id": "72",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "71",
-                    "Chip_Config": null
+                    "chip_id": "71",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "61",
-                    "Chip_Config": null
+                    "chip_id": "61",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "62",
-                    "Chip_Config": null
+                    "chip_id": "62",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "63",
-                    "Chip_Config": null
+                    "chip_id": "63",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "64",
-                    "Chip_Config": null
+                    "chip_id": "64",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "65",
-                    "Chip_Config": null
+                    "chip_id": "65",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "66",
-                    "Chip_Config": null
+                    "chip_id": "66",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "67",
-                    "Chip_Config": null
+                    "chip_id": "67",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "68",
-                    "Chip_Config": null
+                    "chip_id": "68",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "69",
-                    "Chip_Config": null
+                    "chip_id": "69",
+                    "chip_config": null
                 },
                 {
-                    "Chip_ID": "70",
-                    "Chip_Config": null
-                }
-            ]
-        },
-        {
-            "Serial_Number": "002",
-            "UART_Path": {
-                "_config_type": "controller",
-                "name": "network-10x10-tile-singlecube-rerouted",
-                "asic_version": 2,
-                "layout": "2.2.0",
-                "network": {
-                    "1": {
-                        "1": {
-                            "nodes": []
-                        },
-                        "2": {
-                            "nodes": []
-                        },
-                        "3": {
-                            "nodes": [
-                                {
-                                    "chip_id": "ext",
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        61
-                                    ],
-                                    "root": true
-                                },
-                                {
-                                    "chip_id": 61,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        62
-                                    ]
-                                },
-                                {
-                                    "chip_id": 62,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        63
-                                    ]
-                                },
-                                {
-                                    "chip_id": 63,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        64
-                                    ]
-                                },
-                                {
-                                    "chip_id": 64,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        65
-                                    ]
-                                },
-                                {
-                                    "chip_id": 65,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        66
-                                    ]
-                                },
-                                {
-                                    "chip_id": 66,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        67
-                                    ]
-                                },
-                                {
-                                    "chip_id": 67,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        68
-                                    ]
-                                },
-                                {
-                                    "chip_id": 68,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        69
-                                    ]
-                                },
-                                {
-                                    "chip_id": 69,
-                                    "miso_us": [
-                                        59,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 59,
-                                    "miso_us": [
-                                        null,
-                                        58,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 58,
-                                    "miso_us": [
-                                        null,
-                                        57,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 57,
-                                    "miso_us": [
-                                        null,
-                                        56,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 56,
-                                    "miso_us": [
-                                        null,
-                                        55,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 55,
-                                    "miso_us": [
-                                        null,
-                                        54,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 54,
-                                    "miso_us": [
-                                        null,
-                                        53,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 53,
-                                    "miso_us": [
-                                        null,
-                                        52,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 52,
-                                    "miso_us": [
-                                        null,
-                                        51,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 51,
-                                    "miso_us": [
-                                        41,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 41,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        42
-                                    ]
-                                },
-                                {
-                                    "chip_id": 42,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        43
-                                    ]
-                                },
-                                {
-                                    "chip_id": 43,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        44
-                                    ]
-                                },
-                                {
-                                    "chip_id": 44,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        45
-                                    ]
-                                },
-                                {
-                                    "chip_id": 45,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        46
-                                    ]
-                                },
-                                {
-                                    "chip_id": 46,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        47
-                                    ]
-                                },
-                                {
-                                    "chip_id": 47,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        48
-                                    ]
-                                },
-                                {
-                                    "chip_id": 48,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        49
-                                    ]
-                                },
-                                {
-                                    "chip_id": 49,
-                                    "miso_us": [
-                                        39,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 39,
-                                    "miso_us": [
-                                        null,
-                                        38,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 38,
-                                    "miso_us": [
-                                        null,
-                                        37,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 37,
-                                    "miso_us": [
-                                        null,
-                                        36,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 36,
-                                    "miso_us": [
-                                        null,
-                                        35,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 35,
-                                    "miso_us": [
-                                        null,
-                                        34,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 34,
-                                    "miso_us": [
-                                        null,
-                                        33,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 33,
-                                    "miso_us": [
-                                        null,
-                                        32,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 32,
-                                    "miso_us": [
-                                        null,
-                                        31,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 31,
-                                    "miso_us": [
-                                        21,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 21,
-                                    "miso_us": [
-                                        11,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 11,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        12
-                                    ]
-                                },
-                                {
-                                    "chip_id": 12,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        22,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 22,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        23
-                                    ]
-                                },
-                                {
-                                    "chip_id": 23,
-                                    "miso_us": [
-                                        13,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 13,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        14
-                                    ]
-                                },
-                                {
-                                    "chip_id": 14,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        24,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 24,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        25
-                                    ]
-                                },
-                                {
-                                    "chip_id": 25,
-                                    "miso_us": [
-                                        15,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 15,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        16
-                                    ]
-                                },
-                                {
-                                    "chip_id": 16,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        26,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 26,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        27
-                                    ]
-                                },
-                                {
-                                    "chip_id": 27,
-                                    "miso_us": [
-                                        17,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 17,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        18
-                                    ]
-                                },
-                                {
-                                    "chip_id": 18,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        28,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 28,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        29
-                                    ]
-                                },
-                                {
-                                    "chip_id": 29,
-                                    "miso_us": [
-                                        19,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 19,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        20
-                                    ]
-                                },
-                                {
-                                    "chip_id": 20,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        30,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 30,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        40,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 40,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        50,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 50,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        60,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 60,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        70,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 70,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        80,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 80,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        90,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 90,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        100,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 100,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        110,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 110,
-                                    "miso_us": [
-                                        null,
-                                        109,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 109,
-                                    "miso_us": [
-                                        null,
-                                        108,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 108,
-                                    "miso_us": [
-                                        null,
-                                        107,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 107,
-                                    "miso_us": [
-                                        null,
-                                        106,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 106,
-                                    "miso_us": [
-                                        null,
-                                        105,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 105,
-                                    "miso_us": [
-                                        null,
-                                        104,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 104,
-                                    "miso_us": [
-                                        null,
-                                        103,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 103,
-                                    "miso_us": [
-                                        null,
-                                        102,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 102,
-                                    "miso_us": [
-                                        null,
-                                        101,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 101,
-                                    "miso_us": [
-                                        91,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 91,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        92
-                                    ]
-                                },
-                                {
-                                    "chip_id": 92,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        93
-                                    ]
-                                },
-                                {
-                                    "chip_id": 93,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        94
-                                    ]
-                                },
-                                {
-                                    "chip_id": 94,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        95
-                                    ]
-                                },
-                                {
-                                    "chip_id": 95,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        96
-                                    ]
-                                },
-                                {
-                                    "chip_id": 96,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        97
-                                    ]
-                                },
-                                {
-                                    "chip_id": 97,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        98
-                                    ]
-                                },
-                                {
-                                    "chip_id": 98,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        99
-                                    ]
-                                },
-                                {
-                                    "chip_id": 99,
-                                    "miso_us": [
-                                        89,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 89,
-                                    "miso_us": [
-                                        79,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 79,
-                                    "miso_us": [
-                                        null,
-                                        78,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 78,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        88,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 88,
-                                    "miso_us": [
-                                        null,
-                                        87,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 87,
-                                    "miso_us": [
-                                        77,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 77,
-                                    "miso_us": [
-                                        null,
-                                        76,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 76,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        86,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 86,
-                                    "miso_us": [
-                                        null,
-                                        85,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 85,
-                                    "miso_us": [
-                                        75,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 75,
-                                    "miso_us": [
-                                        null,
-                                        74,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 74,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        84,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 84,
-                                    "miso_us": [
-                                        null,
-                                        83,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 83,
-                                    "miso_us": [
-                                        73,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 73,
-                                    "miso_us": [
-                                        null,
-                                        72,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 72,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        82,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 82,
-                                    "miso_us": [
-                                        null,
-                                        81,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 81,
-                                    "miso_us": [
-                                        71,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                },
-                                {
-                                    "chip_id": 71,
-                                    "miso_us": [
-                                        null,
-                                        null,
-                                        null,
-                                        null
-                                    ]
-                                }
-                            ]
-                        },
-                        "4": {
-                            "nodes": []
-                        }
-                    },
-                    "miso_us_uart_map": [
-                        3,
-                        0,
-                        1,
-                        2
-                    ],
-                    "miso_ds_uart_map": [
-                        1,
-                        2,
-                        3,
-                        0
-                    ],
-                    "mosi_uart_map": [
-                        2,
-                        3,
-                        0,
-                        1
-                    ]
-                }
-            },
-            "Chips": [
-                {
-                    "Chip_ID": "61",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "62",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "63",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "64",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "65",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "66",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "67",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "68",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "69",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "59",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "58",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "57",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "56",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "55",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "54",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "53",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "52",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "51",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "41",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "42",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "43",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "44",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "45",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "46",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "47",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "48",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "49",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "39",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "38",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "37",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "36",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "35",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "34",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "33",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "32",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "31",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "21",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "11",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "12",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "22",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "23",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "13",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "14",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "24",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "25",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "15",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "16",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "26",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "27",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "17",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "18",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "28",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "29",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "19",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "20",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "30",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "40",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "50",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "60",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "70",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "80",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "90",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "100",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "110",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "109",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "108",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "107",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "106",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "105",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "104",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "103",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "102",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "101",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "91",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "92",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "93",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "94",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "95",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "96",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "97",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "98",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "99",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "89",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "79",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "78",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "88",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "87",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "77",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "76",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "86",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "85",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "75",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "74",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "84",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "83",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "73",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "72",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "82",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "81",
-                    "Chip_Config": null
-                },
-                {
-                    "Chip_ID": "71",
-                    "Chip_Config": null
+                    "chip_id": "70",
+                    "chip_config": null
                 }
             ]
         }
