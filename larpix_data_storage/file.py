@@ -50,7 +50,6 @@ class File:
 			file.close()
 		except:
 			data = None
-			print("No data found!")
 		finally:
 			return data
 
