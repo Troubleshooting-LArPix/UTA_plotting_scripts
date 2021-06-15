@@ -62,7 +62,24 @@ class CLI:
 
 
 	def save(self):
-		pass
+		data = {
+				"data": [
+					{
+						"serial_number": tile.serial_num,
+						"uart_path": tile.uart_data, 
+						"chips": [
+							{
+								"chip_id": chip.chip_id,
+								"chip_config": chip.config_data
+							} for chip in tile.chips
+						]
+					} for tile in self.tile_arr
+				]
+			}
+		json_object = json.dumps(data, indent = 4)
+		with open('data.json', 'w') as file:
+			file.write(json_object)
+		file.close()
 
 
 	def run(self):
